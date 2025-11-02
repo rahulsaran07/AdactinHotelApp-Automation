@@ -26,7 +26,7 @@
   - Booking confirmation validation
   
  # Running the test
-  - clone the repository :  git clone git@github.com:rahulsaran07/AdactinHotelApp-Automation.git
+  - Clone the repository :  git@github.com:rahulsaran07/AdactinHotelApp-Automation.git
   - Open the project in Eclipse or any IDE supporting Maven
   - Update the project dependencies 
   - Run the test 
